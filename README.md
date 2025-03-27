@@ -1,6 +1,6 @@
 # Penerapan_html_css_js_AkbarJaya
 
-Proyek ini adalah toko e-commerce sederhana dengan kisi-kisi produk, fungsionalitas keranjang, dan desain yang responsif. Ini menggunakan HTML, CSS, dan JavaScript untuk menyediakan struktur dasar, gaya, dan interaktivitas.
+ini adalah toko e-commerce sederhana dengan kisi-kisi produk, fungsionalitas keranjang, dan desain yang responsif. Ini menggunakan HTML, CSS, dan JavaScript untuk menyediakan struktur dasar, gaya, dan interaktivitas.
 
 Fitur
 Kisi Produk: Menampilkan produk dengan gambar, judul, harga, dan tombol “Tambahkan ke Keranjang”.
